@@ -1,0 +1,23 @@
+html{
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before{
+    box-sizing: inherit;
+}
+
+body{
+    font-size: 18px;
+    line-height: 1.777;
+    margin: 0;
+}
+
+
+.menu-box{
+    display:flex;
+}
+.nav-list{
+    
+}
